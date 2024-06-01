@@ -1,5 +1,4 @@
-# tesi-triennale
-Fattori determinanti nelle aspettative d'inflazione delle famiglie italiane
+# Tesi Triennale: Fattori determinanti nelle aspettative d'inflazione delle famiglie italiane
 
 Analisi statistica per dati categorici e ordinali raccolti da Banca d'Italia, volta a individuare i fattori socio-economici che influenzano le aspettative d'inflazione delle famiglie italiane.
 
